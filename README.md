@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <h1 align="center">
     <img src="https://github.com/Jfm32/Jfm32/blob/master/8-52439-12_IPA_Taito-Ka.jpg" alt="Best photo of the year 2005 professionnal spaces outside">   
 </h1>
@@ -11,13 +10,23 @@
   <img src="https://profile-counter.glitch.me/Jfm32/count.svg" alt="Visitor's Count" />
 </div>
 
-
-
-
 - 🔭 I’m currently working on a home server
 - ⚡ Fun fact: I'm doing my current project with docker to redo everything with kubernetes
 - 🌱 I’m currently learning **[Nginx](https://nginx.org)**
 - 💬 Ask me about **Nginx, Docker, Python...or anything [here](https://github.com/Jfm32/Jfm32/issues)**
+
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jfm32/Jfm32/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jfm32/Jfm32/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Jfm32/Jfm32/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
 
 <br>
 
