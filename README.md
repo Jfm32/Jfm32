@@ -26,3 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jfm32&" alt="jfm32" /></p>
 
+
+<!--profile generator https://rahuldkjain.github.io/gh-profile-readme-generator/-->
+<!--profile ressources https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file-->
