@@ -1,74 +1,28 @@
-## Hi there 👋
-<h1 align="center">
-    <img src="https://github.com/Jfm32/Jfm32/blob/master/8-52439-12_IPA_Taito-Ka.jpg" alt="Best photo of the year 2005 professionnal spaces outside">   
-</h1>
+<h1 align="center">Hi 👋, I'm Jfm32</h1>
+<h3 align="center">Student in engeneering</h3>
 
-### A Student still learning to hopfully become a cybersecurity ingeneer in the futur
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jfm32&label=Profile%20views&color=0e75b6&style=flat" alt="jfm32" /> </p>
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Jfm32/count.svg" alt="Visitor's Count" />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jfm32" alt="jfm32" /></a> </p>
 
-- 🔭 I’m currently working on a home server
-- ⚡ Fun fact: I'm doing my current project with docker to redo everything with kubernetes
-- 🌱 I’m currently learning **[Nginx](https://nginx.org)**
-- 💬 Ask me about **Nginx, Docker, Python...or anything [here](https://github.com/Jfm32/Jfm32/issues)**
+- 🔭 I’m currently working on [Home-server](https://github.com/Jfm32/Home-server)
 
+- 🌱 I’m currently learning **Back end Dev, cybersecurity**
 
-## 🐍 My Contributions
+- 💬 Ask me about **python, C, Docker**
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jfm32/Jfm32/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jfm32/Jfm32/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Jfm32/Jfm32/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+- 📫 How to reach me **ooolo1530@gmail.com**
 
-<hr>
-
-<br>
-
-<div align="center">
-  <a href="ooolo1530@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <!-- 
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://medium.com/@" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://codepen.io/" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
-  </a>
-</div> \\-->
-
-<hr>
-
-## 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,nginx" />
-  <img src="https://skillicons.dev/icons?i=html,css,c,html,sql" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<hr>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfm32&show_icons=true&locale=en&layout=compact" alt="jfm32" /></p>
 
-## ⚡️ Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jfm32&show_icons=true&locale=en" alt="jfm32" /></p>
 
-<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jfm32&" alt="jfm32" /></p>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Jfm32&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Jfm32's GitHub Stats" />
-  
-  <!--<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Jfm32&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Jfm32's" />-->
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Jfm32&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Jfm32's Most Used Languages" />
-</div>
-
-<hr>
