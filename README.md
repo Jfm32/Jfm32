@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jfm32</h1>
-<h3 align="center">Student in engeneering</h3>
+<h3 align="center">Student in engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfm32&label=Profile%20views&color=0e75b6&style=flat" alt="jfm32" /> </p>
 
